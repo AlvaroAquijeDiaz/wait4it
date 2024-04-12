@@ -131,7 +131,7 @@
     "eslint": "^8.57.0",
     "eslint-config-next": "13.5.4",
     "eslint-plugin-jsx-a11y": "^6.8.0",
-    "mysql2": "^3.9.2",
+    "mysql2": "^3.9.4",
     "postcss": "^8.4.35",
     "postcss-simple-vars": "^7.0.1",
     "prettier": "^3.2.5",
